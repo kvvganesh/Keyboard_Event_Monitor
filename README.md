@@ -1,6 +1,6 @@
 # ⌨️ Keyboard Event Monitor
 
-> **Educational Use Only** — Built as part of a Cybersecurity Internship to demonstrate OS-level keyboard event handling in Python. Designed to run only on your own device, with your own knowledge and consent.
+> **Educational Use Only** — Built as part of a Project to demonstrate OS-level keyboard event handling in Python. Designed to run only on your own device, with your own knowledge and consent.
 
 ---
 
@@ -152,6 +152,4 @@ Always verify with `git status` before pushing that no log files are staged.
 
 ---
 
-## 📜 License
 
-Built as part of a Cybersecurity Internship learning exercise — 2026.
